@@ -42,11 +42,11 @@ AnyDown supports virtually any platform that streams media, including but not li
 3. Once installed, AnyDown will silently run in your system tray and serve the local dashboard.
 
 ### Step 2: Install the Browser Extension
-*Note: AnyDown is currently distributed as an unpacked extension while pending Web Store approval.*
-1. Download the `AnyDown_Extension.zip` file from the [Releases](#) page and extract it to a folder.
+*Note: AnyDown is currently distributed outside the Web Store while pending approval.*
+1. Download the `AnyDown_Extension.zip` file from the [Releases](#) page.
 2. Open Chrome or Edge and navigate to `chrome://extensions/`.
 3. Enable **Developer mode** in the top right corner.
-4. Click **Load unpacked** and select the extracted `AnyDown_Extension` folder.
+4. Drag and drop the `.zip` file directly into the browser window to install it automatically.
 5. Pin the extension to your toolbar!
 
 ## ⚙️ How to Use
